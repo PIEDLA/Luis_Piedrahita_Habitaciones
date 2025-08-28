@@ -1,4 +1,4 @@
-﻿Console.WriteLine("Hello, World!");
+﻿Console.WriteLine("Hello World!");
 
 public class ConjuntoReci
 {
