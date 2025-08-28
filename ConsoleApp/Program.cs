@@ -1,8 +1,4 @@
-<<<<<<< HEAD
-﻿Console.WriteLine("Hello, World!");
-=======
-﻿Console.WriteLine("Hello, World!");
->>>>>>> e5ae53ad7aa8a555f624b53071da3280709b15fb
+Console.WriteLine("Hello, World!");
 
 public class ConjuntoReci
 {
